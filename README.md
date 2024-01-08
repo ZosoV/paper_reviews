@@ -7,7 +7,7 @@ Next Meeting: Friday January 19th, 2024 at 13h00
 
 ## Meeting
 - [x] Monday January 08th, 2024 at 10h00
-- [ ] Friday January 19th, 2024 at 13h00
+- [ ] Friday January 19th, 2024 at 11h00 - 13h00 (TODO BOOK)
 
 ## Ankith Papers
 
