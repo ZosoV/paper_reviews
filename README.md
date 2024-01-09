@@ -11,7 +11,7 @@ Next Meeting: Friday January 19th, 2024 at 13h00
 
 ## Ankith Papers
 
-- [ ] 
+- [ ] [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 
 ## Oscar Papers
 
