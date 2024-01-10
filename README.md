@@ -2,7 +2,7 @@
 
 **GOAL:** Three papers per month
 
-Next Meeting: Friday January 19th, 2024 at 13h00
+Next Meeting: Friday January 19th, 2024 at 11h00
 
 
 ## Meeting
@@ -15,4 +15,4 @@ Next Meeting: Friday January 19th, 2024 at 13h00
 
 ## Oscar Papers
 
-- [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+- [ ] [Summary](001_oscar_A3C.md) | [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) 
