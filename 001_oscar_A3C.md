@@ -1,10 +1,5 @@
 # Asynchronous Methods for Deep Reinforcement Learning
 
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-
 # Overview
 
 The authors proposed an asynchronous optimization method applicable to different model-free RL methods (value-based and policy-based), different update methods (on-policy and off-policy), and different domains (discrete and continuous).
