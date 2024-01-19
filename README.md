@@ -1,8 +1,13 @@
-# Reading Group: Paper Review
+# Deep Learning Reading Group
+
+Tired of not knowing what to do for your final project, join the group to be even more uncertain about your thesis topic.
+
+We intend to read at least three papers per month, and hopefully, we will figure out our master projects.
 
 **GOAL:** Three papers per month
 
-Next Meeting: Friday January 26th, 2024 at 11h00
+Next Meeting: Friday, January 26th, 2024 at 11h00
+Place: Computer Science Building, Room 222
 
 
 ## Meeting
@@ -20,3 +25,5 @@ Next Meeting: Friday January 26th, 2024 at 11h00
 - [ ] [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)
 
 ## Sushanth Papers
+
+- [ ]
