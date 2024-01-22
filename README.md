@@ -17,7 +17,8 @@ Place: Computer Science Building, Room 222
 
 ## Ankith Papers
 
-- [x] [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
+- [x] [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210.pdf)
+- [ ] [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf)
 
 ## Oscar Papers
 
