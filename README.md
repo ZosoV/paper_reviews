@@ -13,7 +13,7 @@ We intend to read at least three papers per month, and hopefully, we will figure
 ## Meeting
 - [x] Monday January 08th, 2024 at 10h00
 - [x] Friday January 19th, 2024 at 11h00 - 13h00
-- [ ] <s>Friday January 26th, 2024 at 11h00 - 13h00<\s>
+- [ ] ~~Friday January 26th, 2024 at 11h00 - 13h00~~
 - [ ] Friday, February 2nd, 2024 at 11h00-13h00
 
 ## Integrants:
