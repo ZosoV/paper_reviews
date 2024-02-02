@@ -5,7 +5,7 @@ Tired of not knowing what to do for your final project, join the group to be eve
 We intend to read at least two papers per month, and hopefully, we will figure out our master projects.
 
 ## Dynamic
-The dynamic is simple: every two weeks (more or less), two people from the group present two papers (one each one) they have been reading and try to explain it to the rest of us. In the meantime, others can ask questions and encourage a discussion.
+The dynamic is simple: every two weeks (more or less), two people from the group present two papers (one paper each one) they have been reading and try to explain it to the rest of us. In the meantime, others can ask questions and encourage a discussion.
 
 - **Next Meeting**: Friday, February 16th, 2024 at 11h00-13h00
 - **Place**: Computer Science Building, Room 222
