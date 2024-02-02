@@ -9,6 +9,7 @@ We intend to read at least three papers per month, and hopefully, we will figure
 - **Next Meeting**: Friday, February 16th, 2024 at 11h00-13h00
 - **Place**: Computer Science Building, Room 222
 
+- TODO: Take photos as evidence (or recordings)
 
 ## Meeting
 - [x] Monday January 08th, 2024 at 10h00
@@ -30,7 +31,10 @@ We intend to read at least three papers per month, and hopefully, we will figure
 - [x] REINFORCE: [Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) | [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778) presented by Oscar Guarnizo
 
 # Prospective Papers
-- [ ] [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) presented by Oscar Guarnio
+- [ ] [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) presented by Oscar Guarnizo
+
+
+
 
 
 
