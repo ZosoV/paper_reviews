@@ -10,7 +10,7 @@ The dynamic is simple: every two weeks (more or less), two people from the group
 - **Next Meeting**: Friday, February 16th, 2024 at 11h00-13h00
 - **Place**: Computer Science Building, Room 222
 
-- TODO: Take photos as evidence (or recordings)
+TODO: Take photos as evidence (or recordings)
 
 ## Meeting
 - [x] Monday January 08th, 2024 at 10h00
