@@ -6,7 +6,7 @@ We intend to read at least three papers per month, and hopefully, we will figure
 
 **GOAL:** Three papers per month
 
-- **Next Meeting**: Friday, February 2nd, 2024 at 11h00-13h00
+- **Next Meeting**: Friday, February 16th, 2024 at 11h00-13h00
 - **Place**: Computer Science Building, Room 222
 
 
@@ -14,7 +14,8 @@ We intend to read at least three papers per month, and hopefully, we will figure
 - [x] Monday January 08th, 2024 at 10h00
 - [x] Friday January 19th, 2024 at 11h00 - 13h00
 - [ ] ~~Friday January 26th, 2024 at 11h00 - 13h00~~
-- [ ] Friday, February 2nd, 2024 at 11h00-13h00
+- [x] Friday, February 2nd, 2024 at 11h00-13h00
+- [ ] Friday, February 16th, 2024 at 11h00-13h00
 
 ## Integrants:
 - Ankith Savio
@@ -22,9 +23,14 @@ We intend to read at least three papers per month, and hopefully, we will figure
 - Noboru Kanazawa
 - Oscar Guarnizo
 
-
 # Reviewed Papers
-- [ ] [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) presented by Ankith
+- [x] [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) presented by Ankith Savio
+- [x] A2C / A3C: [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) | [Summary](https://github.com/ZosoV/rl_comparison/blob/main/notes/002_A2C_A3C.md) presented by Oscar Guarnizo
+- [x] [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) presented by Ankith Savio
+- [x] REINFORCE: [Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html) | [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778) presented by Oscar Guarnizo
+
+# Prospective Papers
 - [ ] [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) presented by Oscar Guarnio
-- [x] [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) presented by Ankith
-- [x] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) | [Summary](https://github.com/ZosoV/rl_comparison/blob/main/notes/002_A2C_A3C.md) presented by Oscar Guarnio
+
+
+
